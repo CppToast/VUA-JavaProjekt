@@ -1,0 +1,1 @@
+This directory has to exist and this file only exists for it to exist. Feel free to make this file cease to exist.
